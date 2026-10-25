@@ -1,0 +1,13 @@
+int main() {  
+    char a;  
+    int b;  
+  
+    printf("Podaj pierwszą litere imienia:\n");  
+    scanf("%c",&a);  
+    printf("Podaj twój wiek: \n");  
+    scanf("%d",&b);  
+  
+    printf("Inicjal: %c, Wiek: %d",a,b );  
+      
+    return 0;  
+}
