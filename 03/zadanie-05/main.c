@@ -1,4 +1,3 @@
-
 #include <stdio.h>  
   
 void for_przod(const int tab[], int rozmiar);  
